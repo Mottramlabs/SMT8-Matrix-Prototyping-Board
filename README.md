@@ -1,4 +1,4 @@
-# PIC16F690-Matrix-Prototyping-Board
+# STM8-Matrix-Prototyping-Board
 Date: 10th July 2020
 
 ---
